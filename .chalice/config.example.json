@@ -1,0 +1,14 @@
+{
+  "version": "2.0",
+  "app_name": "s3_trigger_to_gcs",
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api",
+      "app_name": "s3_trigger_to_gcs",
+      "environment_variables": {
+        "s3_bucket": "S3_BUCKET_NAME",
+        "gcs_bucket": "GCS_BUCKET_NAME"
+      }
+    }
+  }
+}
