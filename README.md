@@ -6,9 +6,9 @@
 
 
 ### Env
-Python 3.7
-[Poetry](https://github.com/python-poetry/poetry)
-[Chalice](https://github.com/aws/chalice)
+ - Python 3.7
+ - [Poetry](https://github.com/python-poetry/poetry)
+ - [Chalice](https://github.com/aws/chalice)
 
 
 ### Setup
